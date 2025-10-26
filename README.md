@@ -37,3 +37,12 @@ Bridgerton es una de las series más populares de Netflix. Cada temporada gener�
 📌 Hallazgo Destacado
 
 🔴 La primera semana de la Temporada 3 presenta un pico de visualizaciones significativamente superior al resto, lo que sugiere una anomalía positiva y destaca su explosivo debut frente a las otras temporadas.
+
+---
+
+📘 **Nota:**  
+Este proyecto fue parte de mi formación en **Data Science**, enfocado en el análisis comparativo de audiencias y visualizaciones.  
+A través del uso de métricas y detección de anomalías, exploré cómo los datos pueden reflejar comportamientos de consumo en plataformas de streaming.  
+
+Actualmente, mi enfoque profesional está orientado hacia la **Inteligencia Artificial, la automatización y el desarrollo de soluciones basadas en IA generativa**, aplicadas tanto a contextos empresariales como creativos.
+
